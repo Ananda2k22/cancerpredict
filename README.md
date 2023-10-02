@@ -1,2 +1,2 @@
-# abu-sam
-abu code snippets
+# sam
+ code snippets
